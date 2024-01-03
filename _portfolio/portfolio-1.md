@@ -1,6 +1,6 @@
 ---
 title: "ComfyUI Explainer"
-excerpt: "CUIExplainer<br/><img src='/images/500x300.png'>"
+excerpt: "<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
